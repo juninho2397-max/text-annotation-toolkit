@@ -1,0 +1,3 @@
+{"id":"001","text":"Great service","annotator":"reviewer_a","label":"positive"}
+{"id":"002","text":"Slow response","annotator":"reviewer_a","label":"negative"}
+{"id":"003","text":"It was fine","annotator":"reviewer_a","label":"neutral"}
